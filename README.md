@@ -16,7 +16,7 @@
 
 ---
 
-<p align="center">Open-source PDF Viewer 
+<p align="center">Simple File Format Converter
      <br>  
 </p>
 
