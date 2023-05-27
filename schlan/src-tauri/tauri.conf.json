@@ -29,8 +29,8 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "com.tauri.dev",
-      "longDescription": "",
+      "identifier": "com.shiueo.schlan",
+      "longDescription": "Open-source PDF Viewer",
       "macOS": {
         "entitlements": null,
         "exceptionDomain": "",
