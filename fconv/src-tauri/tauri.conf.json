@@ -7,7 +7,7 @@
     "distDir": "../out"
   },
   "package": {
-    "productName": "schlan",
+    "productName": "fconv",
     "version": "0.1.0"
   },
   "tauri": {
@@ -58,7 +58,7 @@
         "fullscreen": false,
         "height": 600,
         "resizable": true,
-        "title": "Schlan",
+        "title": "FConv",
         "width": 800
       }
     ]
